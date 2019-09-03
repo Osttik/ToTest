@@ -526,7 +526,7 @@
             <summary>EAN-8 1D format.</summary>
         </member>
         <member name="F:ZXing.BarcodeFormat.EAN_13">
-            <summary>EAN-12 1D format.</summary>
+            <summary>EAN-13 1D format.</summary>
         </member>
         <member name="F:ZXing.BarcodeFormat.ITF">
             <summary>ITF (Interleaved Two of Five) 1D format.</summary>
