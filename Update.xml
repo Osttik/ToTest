@@ -92,13 +92,6 @@
         <FileChecksumCondition type="or-not" checksumType="sha256" checksum="5334FAE687513E4E9808BC544827EC6597232F5D5D7658B39557B3065811707E" />
       </Conditions>
     </FileUpdateTask>
-    <FileUpdateTask localPath="CurrentVersion.txt" lastModified="132119839309696259" fileSize="3" version="0.0.0.0">
-      <Conditions>
-        <FileExistsCondition type="or-not" />
-        <FileVersionCondition type="or" what="below" version="0.0.0.0" />
-        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="D0FF5974B6AA52CF562BEA5921840C032A860A91A3512F7FE8F768F6BBE005F6" />
-      </Conditions>
-    </FileUpdateTask>
     <FileUpdateTask localPath="d3dcompiler_47.dll" lastModified="132086842540000000" fileSize="3657992" version="10.0.17134.12">
       <Conditions>
         <FileExistsCondition type="or-not" />
@@ -106,11 +99,11 @@
         <FileChecksumCondition type="or-not" checksumType="sha256" checksum="8BF0EEB5081D8397E2F84F69449C8A80D9C0CDCF82BCEF7A484309046ADCB081" />
       </Conditions>
     </FileUpdateTask>
-    <FileUpdateTask localPath="debug.log" lastModified="132119840064537078" fileSize="11863" version="0.0.0.0">
+    <FileUpdateTask localPath="debug.log" lastModified="132119917225941842" fileSize="92" version="0.0.0.0">
       <Conditions>
         <FileExistsCondition type="or-not" />
         <FileVersionCondition type="or" what="below" version="0.0.0.0" />
-        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="EC836A98D9A44F0AED5140EA47C48FB6458CD8F6450AEA98FB47AD2347B1FB13" />
+        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="8958DF6CA43121CCD60A1634F5226C1B9A49B720F01C9C0B218BE2A67E1FEFA3" />
       </Conditions>
     </FileUpdateTask>
     <FileUpdateTask localPath="devtools_resources.pak" lastModified="132086842640000000" fileSize="6175880" version="0.0.0.0">
@@ -134,11 +127,11 @@
         <FileChecksumCondition type="or-not" checksumType="sha256" checksum="E187AEA1E4255808C1EC78D66B95C724E82459428596B455515D3847BBA54564" />
       </Conditions>
     </FileUpdateTask>
-    <FileUpdateTask localPath="FrontDesk.Client.ReceptionApp.exe" lastModified="132119892053885296" fileSize="66560" version="1.0.0.0">
+    <FileUpdateTask localPath="FrontDesk.Client.ReceptionApp.exe" lastModified="132119923332855126" fileSize="66560" version="1.0.0.0">
       <Conditions>
         <FileExistsCondition type="or-not" />
         <FileVersionCondition type="or" what="below" version="1.0.0.0" />
-        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="FACAF9B113031CDD196B5924A14BC948B356250CE486456D97D1E057F979468B" />
+        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="C8CDAEBA68CDBBCEE354AABA3AB48CE9C4DED19F7EF513D8057B771A47C11ADF" />
       </Conditions>
     </FileUpdateTask>
     <FileUpdateTask localPath="FrontDesk.Client.ReceptionApp.exe.config" lastModified="132119876686475748" fileSize="1171" version="0.0.0.0">
@@ -232,6 +225,13 @@
         <FileChecksumCondition type="or-not" checksumType="sha256" checksum="63E32EBB4B26C25F65DDF26B5FA9D7147A9C8B45DF355DB90AC706AFEC980036" />
       </Conditions>
     </FileUpdateTask>
+    <FileUpdateTask localPath="TEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEST.txt" lastModified="132119925521381925" fileSize="9" version="0.0.0.0">
+      <Conditions>
+        <FileExistsCondition type="or-not" />
+        <FileVersionCondition type="or" what="below" version="0.0.0.0" />
+        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="4C2E9E6DA31A64C70623619C449A040968CDBEA85945BF384FA30ED2D5D24FA3" />
+      </Conditions>
+    </FileUpdateTask>
     <FileUpdateTask localPath="Unity.Abstractions.dll" lastModified="132055258740000000" fileSize="65024" version="5.11.1.0">
       <Conditions>
         <FileExistsCondition type="or-not" />
@@ -244,13 +244,6 @@
         <FileExistsCondition type="or-not" />
         <FileVersionCondition type="or" what="below" version="5.11.1.0" />
         <FileChecksumCondition type="or-not" checksumType="sha256" checksum="FC3B006FD249542D2001F8E6C9E0F1AB813DCBD6FACB54B0645D0A85C77C7A5C" />
-      </Conditions>
-    </FileUpdateTask>
-    <FileUpdateTask localPath="UpdateFeed.xml" lastModified="132119864810477529" fileSize="485" version="0.0.0.0">
-      <Conditions>
-        <FileExistsCondition type="or-not" />
-        <FileVersionCondition type="or" what="below" version="0.0.0.0" />
-        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="6937A3C82103699B29B9F7B365EF7D470F809136D2ACCC2B97ABAAA50A599331" />
       </Conditions>
     </FileUpdateTask>
     <FileUpdateTask localPath="v8_context_snapshot.bin" lastModified="132086842640000000" fileSize="613840" version="0.0.0.0">
@@ -272,104 +265,6 @@
         <FileExistsCondition type="or-not" />
         <FileVersionCondition type="or" what="below" version="0.0.0.0" />
         <FileChecksumCondition type="or-not" checksumType="sha256" checksum="15D60EB4A6251B6C9376675BFB5364A1142C5C805E04E92387A252C91ABBECAF" />
-      </Conditions>
-    </FileUpdateTask>
-    <FileUpdateTask localPath="app.publish\FrontDesk.Client.ReceptionApp.application" lastModified="132119877229929974" fileSize="5726" version="0.0.0.0">
-      <Conditions>
-        <FileExistsCondition type="or-not" />
-        <FileVersionCondition type="or" what="below" version="0.0.0.0" />
-        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="5D4F9EACEAAD26D7C99ACDFD50A6EA8FFCF0D669C907AA8A47A15C5961D51913" />
-      </Conditions>
-    </FileUpdateTask>
-    <FileUpdateTask localPath="app.publish\FrontDesk.Client.ReceptionApp.exe" lastModified="132119877215980588" fileSize="67512" version="1.0.0.0">
-      <Conditions>
-        <FileExistsCondition type="or-not" />
-        <FileVersionCondition type="or" what="below" version="1.0.0.0" />
-        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="81A0B8239D702D206C6B9D582EFD693AFABF8FFBBB70D45DA600385C20702C1A" />
-      </Conditions>
-    </FileUpdateTask>
-    <FileUpdateTask localPath="app.publish\setup.exe" lastModified="132119877231819955" fileSize="553400" version="16.0.28315.86">
-      <Conditions>
-        <FileExistsCondition type="or-not" />
-        <FileVersionCondition type="or" what="below" version="16.0.28315.86" />
-        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="05A94F1DC06510F2C71F9C263B81D96C3B51CDEB0220968FE1408526F3A40488" />
-      </Conditions>
-    </FileUpdateTask>
-    <FileUpdateTask localPath="app.publish\Application Files\FrontDesk.Client.ReceptionApp_1_0_0_1\FrontDesk.Client.BusinessLogic.dll.deploy" lastModified="132118910401800472" fileSize="12800" version="1.0.0.0">
-      <Conditions>
-        <FileExistsCondition type="or-not" />
-        <FileVersionCondition type="or" what="below" version="1.0.0.0" />
-        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="81CC10CFB5D884994D12E70195988CE05C48BDC255ABEB55A54C7420AD006A4A" />
-      </Conditions>
-    </FileUpdateTask>
-    <FileUpdateTask localPath="app.publish\Application Files\FrontDesk.Client.ReceptionApp_1_0_0_1\FrontDesk.Client.BusinessLogicExtended.dll.deploy" lastModified="132118910406239671" fileSize="10240" version="1.0.0.0">
-      <Conditions>
-        <FileExistsCondition type="or-not" />
-        <FileVersionCondition type="or" what="below" version="1.0.0.0" />
-        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="E187AEA1E4255808C1EC78D66B95C724E82459428596B455515D3847BBA54564" />
-      </Conditions>
-    </FileUpdateTask>
-    <FileUpdateTask localPath="app.publish\Application Files\FrontDesk.Client.ReceptionApp_1_0_0_1\FrontDesk.Client.ReceptionApp.exe.config.deploy" lastModified="132119876686475748" fileSize="1171" version="0.0.0.0">
-      <Conditions>
-        <FileExistsCondition type="or-not" />
-        <FileVersionCondition type="or" what="below" version="0.0.0.0" />
-        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="ED78CE3335284C8973FBBDE45E4C9E49F27D99E5582F9B7E5FCF9F52DD8FE4F2" />
-      </Conditions>
-    </FileUpdateTask>
-    <FileUpdateTask localPath="app.publish\Application Files\FrontDesk.Client.ReceptionApp_1_0_0_1\FrontDesk.Client.ReceptionApp.exe.deploy" lastModified="132119877215980588" fileSize="67512" version="1.0.0.0">
-      <Conditions>
-        <FileExistsCondition type="or-not" />
-        <FileVersionCondition type="or" what="below" version="1.0.0.0" />
-        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="81A0B8239D702D206C6B9D582EFD693AFABF8FFBBB70D45DA600385C20702C1A" />
-      </Conditions>
-    </FileUpdateTask>
-    <FileUpdateTask localPath="app.publish\Application Files\FrontDesk.Client.ReceptionApp_1_0_0_1\FrontDesk.Client.ReceptionApp.exe.manifest" lastModified="132119877229569973" fileSize="13764" version="0.0.0.0">
-      <Conditions>
-        <FileExistsCondition type="or-not" />
-        <FileVersionCondition type="or" what="below" version="0.0.0.0" />
-        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="A3F17FBB5D444620E4C759393918B97B77BA1412BBF10ACEC1D44FAF5227FA1F" />
-      </Conditions>
-    </FileUpdateTask>
-    <FileUpdateTask localPath="app.publish\Application Files\FrontDesk.Client.ReceptionApp_1_0_0_1\NAppUpdate.Framework.dll.deploy" lastModified="131121815420000000" fileSize="171008" version="0.5.1.0">
-      <Conditions>
-        <FileExistsCondition type="or-not" />
-        <FileVersionCondition type="or" what="below" version="0.5.1.0" />
-        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="B46AAE1C69D17A4A45B1C7D9BC4284AAF27C644F222297E64D1B471ABA31FE91" />
-      </Conditions>
-    </FileUpdateTask>
-    <FileUpdateTask localPath="app.publish\Application Files\FrontDesk.Client.ReceptionApp_1_0_0_1\Newtonsoft.Json.dll.deploy" lastModified="132003579760000000" fileSize="675752" version="12.0.2.23222">
-      <Conditions>
-        <FileExistsCondition type="or-not" />
-        <FileVersionCondition type="or" what="below" version="12.0.2.23222" />
-        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="3598CCCAD5B535FEA6F93662107A4183BFD6167BF1D0F80260436093EDC2E3AF" />
-      </Conditions>
-    </FileUpdateTask>
-    <FileUpdateTask localPath="app.publish\Application Files\FrontDesk.Client.ReceptionApp_1_0_0_1\System.Runtime.CompilerServices.Unsafe.dll.deploy" lastModified="131817622900000000" fileSize="23600" version="4.6.26919.2">
-      <Conditions>
-        <FileExistsCondition type="or-not" />
-        <FileVersionCondition type="or" what="below" version="4.6.26919.2" />
-        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="1AD2DD7225D5162A0FD3A3B337A1949448520E3130A4BC8E010EC02F76097500" />
-      </Conditions>
-    </FileUpdateTask>
-    <FileUpdateTask localPath="app.publish\Application Files\FrontDesk.Client.ReceptionApp_1_0_0_1\Unity.Abstractions.dll.deploy" lastModified="132055258740000000" fileSize="65024" version="5.11.1.0">
-      <Conditions>
-        <FileExistsCondition type="or-not" />
-        <FileVersionCondition type="or" what="below" version="5.11.1.0" />
-        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="56C2CBF48D67078D04A3BDD824685015D6F24EBC6AD2E1F0A7528EAEAD33B6A4" />
-      </Conditions>
-    </FileUpdateTask>
-    <FileUpdateTask localPath="app.publish\Application Files\FrontDesk.Client.ReceptionApp_1_0_0_1\Unity.Container.dll.deploy" lastModified="132055258760000000" fileSize="145920" version="5.11.1.0">
-      <Conditions>
-        <FileExistsCondition type="or-not" />
-        <FileVersionCondition type="or" what="below" version="5.11.1.0" />
-        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="FC3B006FD249542D2001F8E6C9E0F1AB813DCBD6FACB54B0645D0A85C77C7A5C" />
-      </Conditions>
-    </FileUpdateTask>
-    <FileUpdateTask localPath="app.publish\Application Files\FrontDesk.Client.ReceptionApp_1_0_0_1\zxing.dll.deploy" lastModified="131681939540000000" fileSize="441344" version="0.16.4.0">
-      <Conditions>
-        <FileExistsCondition type="or-not" />
-        <FileVersionCondition type="or" what="below" version="0.16.4.0" />
-        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="1983C794E65C5832E79ED6B359EF3AFB2D18190763948B9D62B173238EAB24A1" />
       </Conditions>
     </FileUpdateTask>
     <FileUpdateTask localPath="locales\am.pak" lastModified="132086842640000000" fileSize="323629" version="0.0.0.0">
