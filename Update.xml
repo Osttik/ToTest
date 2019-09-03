@@ -99,11 +99,11 @@
         <FileChecksumCondition type="or-not" checksumType="sha256" checksum="8BF0EEB5081D8397E2F84F69449C8A80D9C0CDCF82BCEF7A484309046ADCB081" />
       </Conditions>
     </FileUpdateTask>
-    <FileUpdateTask localPath="debug.log" lastModified="132119917225941842" fileSize="92" version="0.0.0.0">
+    <FileUpdateTask localPath="debug.log" lastModified="132119930504742238" fileSize="276" version="0.0.0.0">
       <Conditions>
         <FileExistsCondition type="or-not" />
         <FileVersionCondition type="or" what="below" version="0.0.0.0" />
-        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="8958DF6CA43121CCD60A1634F5226C1B9A49B720F01C9C0B218BE2A67E1FEFA3" />
+        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="B23CF03720D44A8F92B2079B72CEBD89B3EBE0991AC87A6AF325083B907ABB83" />
       </Conditions>
     </FileUpdateTask>
     <FileUpdateTask localPath="devtools_resources.pak" lastModified="132086842640000000" fileSize="6175880" version="0.0.0.0">
@@ -113,25 +113,25 @@
         <FileChecksumCondition type="or-not" checksumType="sha256" checksum="94B15729530FCF90D11156D38FFD0152ACE21182EE44E63C51DC5E2AF25345D2" />
       </Conditions>
     </FileUpdateTask>
-    <FileUpdateTask localPath="FrontDesk.Client.BusinessLogic.dll" lastModified="132118910401800472" fileSize="12800" version="1.0.0.0">
+    <FileUpdateTask localPath="FrontDesk.Client.BusinessLogic.dll" lastModified="132119929926396625" fileSize="12800" version="1.0.0.0">
       <Conditions>
         <FileExistsCondition type="or-not" />
         <FileVersionCondition type="or" what="below" version="1.0.0.0" />
         <FileChecksumCondition type="or-not" checksumType="sha256" checksum="81CC10CFB5D884994D12E70195988CE05C48BDC255ABEB55A54C7420AD006A4A" />
       </Conditions>
     </FileUpdateTask>
-    <FileUpdateTask localPath="FrontDesk.Client.BusinessLogicExtended.dll" lastModified="132118910406239671" fileSize="10240" version="1.0.0.0">
+    <FileUpdateTask localPath="FrontDesk.Client.BusinessLogicExtended.dll" lastModified="132119929937336952" fileSize="10240" version="1.0.0.0">
       <Conditions>
         <FileExistsCondition type="or-not" />
         <FileVersionCondition type="or" what="below" version="1.0.0.0" />
         <FileChecksumCondition type="or-not" checksumType="sha256" checksum="E187AEA1E4255808C1EC78D66B95C724E82459428596B455515D3847BBA54564" />
       </Conditions>
     </FileUpdateTask>
-    <FileUpdateTask localPath="FrontDesk.Client.ReceptionApp.exe" lastModified="132119923332855126" fileSize="66560" version="1.0.0.0">
+    <FileUpdateTask localPath="FrontDesk.Client.ReceptionApp.exe" lastModified="132119930423972220" fileSize="66560" version="1.0.0.0">
       <Conditions>
         <FileExistsCondition type="or-not" />
         <FileVersionCondition type="or" what="below" version="1.0.0.0" />
-        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="C8CDAEBA68CDBBCEE354AABA3AB48CE9C4DED19F7EF513D8057B771A47C11ADF" />
+        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="F14C9A4CF0A07A836B9EBABA2AC2BFF5C8431D6047B17F3ECCCCB27DCB230B27" />
       </Conditions>
     </FileUpdateTask>
     <FileUpdateTask localPath="FrontDesk.Client.ReceptionApp.exe.config" lastModified="132119876686475748" fileSize="1171" version="0.0.0.0">
@@ -223,13 +223,6 @@
         <FileExistsCondition type="or-not" />
         <FileVersionCondition type="or" what="below" version="0.0.0.0" />
         <FileChecksumCondition type="or-not" checksumType="sha256" checksum="63E32EBB4B26C25F65DDF26B5FA9D7147A9C8B45DF355DB90AC706AFEC980036" />
-      </Conditions>
-    </FileUpdateTask>
-    <FileUpdateTask localPath="TEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEST.txt" lastModified="132119925521381925" fileSize="9" version="0.0.0.0">
-      <Conditions>
-        <FileExistsCondition type="or-not" />
-        <FileVersionCondition type="or" what="below" version="0.0.0.0" />
-        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="4C2E9E6DA31A64C70623619C449A040968CDBEA85945BF384FA30ED2D5D24FA3" />
       </Conditions>
     </FileUpdateTask>
     <FileUpdateTask localPath="Unity.Abstractions.dll" lastModified="132055258740000000" fileSize="65024" version="5.11.1.0">
