@@ -2,9 +2,9 @@
 <Feed>
   <Tasks>
     <FileUpdateTask 
-                    hotswap="true" 
-                    updateTo="https://github.com/Osttik/ToTest" 
-                    localPath="D:/Projects/FrontDesk clients/FrontDesk clients/FrontDesk.Client.ReceptionApp/bin/x86/Debug"
+      hotswap="true" 
+      updateTo="https://github.com/Osttik/ToTest" 
+      localPath="D:\Projects\FrontDesk clients\FrontDesk clients\FrontDesk.Client.ReceptionApp\bin\x86\Debug"
      >
       <Description>Fixes a bug where versions should be odd numbers.</Description>
       <Conditions>
