@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Feed BaseUrl="https://github.com/Osttik/ToTest">
+<Feed BaseUrl="https://github.com/Osttik/ToTest/blob/master">
   <Tasks>
     <FileUpdateTask localPath="cef.pak" lastModified="132086842640000000" fileSize="3699714" version="0.0.0.0">
       <Conditions>
