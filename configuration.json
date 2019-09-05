@@ -1,0 +1,16 @@
+{
+  "name": "OpenDesc",
+  "printer": "EFRG-192",
+  "culture": "en",
+  "organization": "FrontDesc",
+  "receptionSiteURL": "frontdesc.com.us",
+  "updateURL": "http://url.com.ua",
+  "signelrHost": null,
+  "clientServer": null,
+  "machineIdentifier": "LANDER",
+  "authKey": "228335",
+  "isConfigured": true,
+  "isAuthenticated": false,
+  "kioskMode": false,
+  "autoUpdate": true
+}
