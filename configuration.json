@@ -12,5 +12,5 @@
   "isConfigured": true,
   "isAuthenticated": false,
   "kioskMode": false,
-  "autoUpdate": true
+  "autoUpdate": false
 }
