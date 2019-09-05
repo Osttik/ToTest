@@ -2,7 +2,7 @@
   "name": "OpenDesc",
   "printer": "EFRG-192",
   "organization": "FrontDesc",
-  "receptionSiteURL": "frontdesc.com.us",
+  "receptionSiteURL": "https://reception.kommuneserver2.dk/test/view/reception/2593?languagecode=da",
   "updateURL": "http://url.com.ua",
   "signelrHost": null,
   "clientServer": null,
